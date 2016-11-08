@@ -31,7 +31,7 @@ export default class Room extends Component {
         availableText = 'Available'
         availableColor = Colors.accent
       } else {
-        availableText = 'Unavailableafds'
+        availableText = 'Unavailable'
         availableColor = 'red'
       }
     }
